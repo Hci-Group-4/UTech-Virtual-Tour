@@ -4,4 +4,4 @@ UTech, Jamaica virtual campus tour using principles within usability engineering
 
 WordPress site: 
 
-Virtual tour: 
+Virtual tour: https://app.lapentor.com/sphere/utech-tour-1604853264
