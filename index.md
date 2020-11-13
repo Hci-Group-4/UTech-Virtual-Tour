@@ -19,7 +19,7 @@
 
 **Important Links** 
 
-WordPress site:(www.utechtour.xyz)
+WordPress site: www.utechtour.xyz
 
-Virtual tour:(https://app.lapentor.com/sphere/utech-tour-1604853264) 
+Virtual tour: https://app.lapentor.com/sphere/utech-tour-1604853264
 
